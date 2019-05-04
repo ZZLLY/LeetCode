@@ -1,9 +1,8 @@
 class Solution:
     def twoSum(self, nums: list, target: int)->list:
-        # 题目要求找到数组中两个整数之和为target, 返回他们的坐标
+        # 题意： 找到数组中两个整数之和为target, 返回他们的坐标
         # 限制： 一个整数只能用一次
         # 思路： 用字典, 遍历过程中, 每遍历到一个整数item, 把target-item当做key, 下标当做value, 在后续遍历的时候判断item是不是字典的key
-        # 复杂度: O(n)
         tmp = dict()
         for i in range(len(nums)):
             # 判断当前item是不是字典的key
