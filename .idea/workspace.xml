@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2effacc8-bec8-4546-b24e-4e765fd558e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/No58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/No67.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/No58.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="375">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/No67.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -106,14 +115,15 @@
         <option value="$PROJECT_DIR$/easy/No38.py" />
         <option value="$PROJECT_DIR$/easy/No53.py" />
         <option value="$PROJECT_DIR$/easy/No58.py" />
+        <option value="$PROJECT_DIR$/easy/No67.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="994" />
-    <option name="y" value="504" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1221" />
+    <option name="y" value="290" />
     <option name="width" value="917" />
-    <option name="height" value="1054" />
+    <option name="height" value="1240" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -163,28 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.No20">
-    <configuration name="No1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/No1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.No67">
     <configuration name="No14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +208,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/No20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="No67" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/No67.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.No67" />
         <item itemvalue="Python.No20" />
         <item itemvalue="Python.No14" />
         <item itemvalue="Python.No9" />
         <item itemvalue="Python.No7" />
-        <item itemvalue="Python.No1" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557149848752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day05">
+      <created>1557193912992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557193912992</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -345,21 +362,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="829" y="714" width="917" height="1054" extended-state="0" />
+    <frame x="67" y="34" width="2493" height="1406" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2200903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.079203896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49763593" weight="0.32871974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49763593" visible="true" weight="0.32844335" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39853302" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49917763" weight="0.32871974" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49881798" visible="true" weight="0.33028573" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49917763" weight="0.32844335" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49881798" weight="0.23553382" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.50236404" side_tool="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50236404" side_tool="true" weight="0.32871974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,7 +389,8 @@
     <MESSAGE value="day02" />
     <MESSAGE value="day03" />
     <MESSAGE value="day04" />
-    <option name="LAST_COMMIT_MESSAGE" value="day04" />
+    <MESSAGE value="day05" />
+    <option name="LAST_COMMIT_MESSAGE" value="day05" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/easy/No7.py">
@@ -468,8 +486,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/No58.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="375">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/No67.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
         </state>
       </provider>
     </entry>
